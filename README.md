@@ -11,3 +11,5 @@ To use:
 6. Enjoy your images/gifs/webm's.
 
 Any questions/comments/concerns may be asked under Issues. Thank you.
+
+Compiled version: Soon
